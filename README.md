@@ -1,4 +1,4 @@
 
-Simple Ecommerce Website using HTML, CSS and JavaScript
+Simple Ecommerce Website using HTML, CSS and JavaScript.
 
 
